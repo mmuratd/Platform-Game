@@ -32,7 +32,7 @@ Follow these steps to set up and play the game locally:
 
 This project uses the following dependencies and technologies:
 
-- **Unity Game Engine**: Developed using Unity (version X.X.X).
+- **Unity Game Engine**: Developed using Unity.
 
 ## Contributing
 
@@ -46,8 +46,6 @@ welcome contributions! If you'd like to contribute to the project, please follow
 ## Contact
 
 If you have any questions, feedback, or issues, please feel free to reach out to us:
-
-- [Your Name] - [Your Email Address]
 
 ## License
 
